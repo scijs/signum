@@ -1,6 +1,6 @@
 {
   "name": "signum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns the sign of a number",
   "main": "sgn.js",
   "directories": {
